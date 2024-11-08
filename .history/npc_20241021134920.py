@@ -24,8 +24,38 @@ class NPC(AnimatedSprite):
         self.frame_counter = 0
         self.player_search_trigger = False
 
-    def update(self):
-                       
+    def update(self):and
+    
+    
+    and
+    aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    a
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
         self.check_animation_time()
         self.get_sprite()
         self.run_logic()

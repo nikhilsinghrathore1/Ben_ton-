@@ -45,3 +45,5 @@ class PathFinding:
             for x, col in enumerate(row):
                 if not col:
                     self.graph[(x, y)] = self.graph.get((x, y), []) + self.get_next_nodes(x, y)
+                    
+                    # by making sure that all the internal operation are performed according to the specification levels of software testing unit testing , where individual unit or component of the system are tested the purpose of unit testing is to validate that each component performs as per the design it is the process where individual component are combined and tested as a group the purpose of individual testing is to expose fault in the interaction between integrated system , system testing : process where complete integrated system is tested the purpose is to evaluate system compliance with specified requirement user acceptance testing it is the process where system is tested for acceptabilty the purpose of this test is to access wheter the developed software is acceptable or delete  

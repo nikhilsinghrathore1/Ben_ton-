@@ -12,9 +12,6 @@ from weapon import *
 from sound import *
 from pathfinding import *
 
-
-print("hello world")
-
 class Game:
     def __init__(self):
         pg.init()
